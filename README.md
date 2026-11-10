@@ -6,7 +6,7 @@
 Ищу позицию Junior BI / Аналитик данных (удалённо или гибрид).
 
 ## Мои проекты
-- [Дашборд по футболу](ссылка) — скоро
+- [Дашборд по футболу](ссылка)
 - [Складской учёт на 1С](https://github.com/NotFormal20/1c-warehouse-project)
 - [SQL-анализ Chinook](https://github.com/NotFormal20/sql-chinook-analysis)
 - [Titanic EDA](https://github.com/NotFormal20/titanic-eda)
