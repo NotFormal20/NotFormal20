@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**NotFormal20/NotFormal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Рудольф 👋
 
-Here are some ideas to get you started:
+**Начинающий аналитик данных / BI-разработчик.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Умею: SQL, Python (pandas), Power BI, 1С.
+Ищу позицию Junior BI / Аналитик данных (удалённо или гибрид).
+
+## Мои проекты
+- [Дашборд по футболу](ссылка) — скоро
+- [Складской учёт на 1С](https://github.com/NotFormal20/1c-warehouse-project)
+- [SQL-анализ Chinook](https://github.com/NotFormal20/sql-chinook-analysis)
+- [Titanic EDA](https://github.com/NotFormal20/titanic-eda)
+
+## Контакты
+- Email: rudolf.verbitskiy.96@mail.ru
